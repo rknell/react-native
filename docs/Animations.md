@@ -34,7 +34,7 @@ class Playground extends React.Component {
   render() {
     return (
       <Animated.Image                         // Base: Image, Text, View
-        source={{uri: 'http://i.imgur.com/XMKOH81.jpg'}}
+        source={{uri: 'https://i.imgur.com/XMKOH81.jpg'}}
         style={{
           flex: 1,
           transform: [                        // `transform` is an ordered array
